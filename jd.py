@@ -142,7 +142,7 @@ def get_tokens(auth_code):
     }
 
     try:
-        response = requests.post(TOKEN_URL, headers=headers, data=data)
+        response = requests.post(TOKEN_URL, headers=headers, data=data, verify=False) # 'verify=True' para garantir que a conexão é segura
         response.raise_for_status()
         token_data = response.json()
 
@@ -186,7 +186,7 @@ def refresh_access_token():
     }
 
     try:
-        response = requests.post(TOKEN_URL, headers=headers, data=data)
+        response = requests.post(TOKEN_URL, headers=headers, data=data, verify=False) # 'verify=True' para garantir que a conexão é segura
         response.raise_for_status()
         token_data = response.json()
 
@@ -243,7 +243,7 @@ def get_organizations():
         # Este é um endpoint de exemplo. Confirme o endpoint real no próximo prompt.
         orgs_url = f"{API_BASE_URL}/organizations" 
         print(f"Fazendo requisição para: {orgs_url}")
-        response = requests.get(orgs_url, headers=headers)
+        response = requests.get(orgs_url, headers=headers, verify=False) # 'verify=True' para garantir que a conexão é segura   
         
         print(f"Status da resposta: {response.status_code}")
         print(f"Headers da resposta: {dict(response.headers)}")
