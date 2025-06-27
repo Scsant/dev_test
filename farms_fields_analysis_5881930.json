@@ -1,0 +1,131 @@
+{
+  "summary": {
+    "total_farms_processed": 293,
+    "successful_farms": 293,
+    "error_farms": 0,
+    "total_fields": 4536,
+    "average_fields_per_farm": 15.48,
+    "min_fields": 0,
+    "max_fields": 143
+  },
+  "distribution": {
+    "1-5 campos": 103,
+    "6-10 campos": 54,
+    "11-20 campos": 42,
+    "21-50 campos": 67,
+    "50+ campos": 15
+  },
+  "top_10_farms_by_fields": [
+    {
+      "rank": 1,
+      "farm_name": "2081 - FLECHA AZUL",
+      "farm_id": "04a4517d-018c-686f-823f-4e0a3ae48747",
+      "total_fields": 143
+    },
+    {
+      "rank": 2,
+      "farm_name": "0487 - MORRO DE OURO",
+      "farm_id": "a7925df9-235f-8ead-b3ab-714378270a7c",
+      "total_fields": 96
+    },
+    {
+      "rank": 3,
+      "farm_name": "0420 - OITO PONTAS",
+      "farm_id": "d5377ea0-0e44-3fd8-0f20-1719366a1375",
+      "total_fields": 89
+    },
+    {
+      "rank": 4,
+      "farm_name": "0177 - SÃO PEDRO",
+      "farm_id": "0ad92698-7337-729a-3456-0099c744fd3a",
+      "total_fields": 86
+    },
+    {
+      "rank": 5,
+      "farm_name": "2054 - REUNIDAS VALPANEMA - GLEBA B",
+      "farm_id": "d8ea1f16-1fec-8423-60a4-ed12eaae4284",
+      "total_fields": 80
+    },
+    {
+      "rank": 6,
+      "farm_name": "0238 - SANTA SILVIA",
+      "farm_id": "ee484100-bf21-a86e-f4e3-8f4d76519f20",
+      "total_fields": 74
+    },
+    {
+      "rank": 7,
+      "farm_name": "0375 - SÃO JOSÉ DA BELA VISTA",
+      "farm_id": "62c2be2b-7aae-57c2-5fbe-a523f7219152",
+      "total_fields": 70
+    },
+    {
+      "rank": 8,
+      "farm_name": "0001 - MAMEDINA",
+      "farm_id": "895bc084-0852-7acb-cabc-7ba9b997819d",
+      "total_fields": 65
+    },
+    {
+      "rank": 9,
+      "farm_name": "0245 - SÃO PAULO",
+      "farm_id": "7cf22dc9-40a4-cbf1-d93e-172bbd4425fd",
+      "total_fields": 63
+    },
+    {
+      "rank": 10,
+      "farm_name": "2079 - GLOBO I",
+      "farm_id": "1ea9c709-6f8c-1499-c801-58df359267c8",
+      "total_fields": 60
+    }
+  ],
+  "farms_without_fields": 12,
+  "farms_without_fields_list": [
+    {
+      "farm_name": "0532 - Santa edwirges ll",
+      "farm_id": "cbdb8f1d-63dd-49b1-b4da-7febe782f956"
+    },
+    {
+      "farm_name": "0458-Sao franciscovl",
+      "farm_id": "60da8dc3-85f0-4fef-9b85-5f1deae8bd17"
+    },
+    {
+      "farm_name": "0390 - Torrao de ouro",
+      "farm_id": "c01c83da-948d-427e-bc26-a79797744a9e"
+    },
+    {
+      "farm_name": "2435",
+      "farm_id": "24d12467-46ea-43cb-87ce-3b9ef9505889"
+    },
+    {
+      "farm_name": "Cachoeirinha ll - 0285",
+      "farm_id": "51f363bb-8571-4850-8a8d-e2139fe79cf1"
+    },
+    {
+      "farm_name": "0532 - 0533 - Santa edwirges ll,lll",
+      "farm_id": "12ed4a80-a44c-4292-aa70-fbbb50d61056"
+    },
+    {
+      "farm_name": "Agua branca - 0308",
+      "farm_id": "ebdba6f7-0821-4f2f-97d5-7771ead92dfb"
+    },
+    {
+      "farm_name": "0460 - Boa vista lX",
+      "farm_id": "f9523496-5f2d-44e9-9f1d-117528d34ff4"
+    },
+    {
+      "farm_name": "2405",
+      "farm_id": "9b367ba4-af5b-4181-9fd4-236200f1211a"
+    },
+    {
+      "farm_name": "2313 - ÁGUA DA PEDRA",
+      "farm_id": "dcb2be5d-0d76-44f7-ac22-a2e47e797f22"
+    },
+    {
+      "farm_name": "2143 - SANTA MARIA X",
+      "farm_id": "e33fdfbe-47a9-4374-b445-511d85de2dd1"
+    },
+    {
+      "farm_name": "002/0182",
+      "farm_id": "5ca33368-7e99-4476-a907-6778cd676d71"
+    }
+  ]
+}

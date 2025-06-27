@@ -1,0 +1,106 @@
+[
+  {
+    "file_id": "57612645901",
+    "file_name": "6135J_0585_F 24071_06262025.zip",
+    "file_size": 5044,
+    "download_tests": {
+      "ZIP": {
+        "success": true,
+        "file_path": "downloads\\57612645901_ZIP_6135J_0585_F 24071_06262025.zip",
+        "file_size": 5044,
+        "content_type": "application/octet-stream",
+        "content_disposition": "attachment; filename=\"6135J_0585_F 24071_06262025.zip\""
+      },
+      "OCTET_STREAM": {
+        "success": true,
+        "file_path": "downloads\\57612645901_OCTET_STREAM_6135J_0585_F 24071_06262025.zip",
+        "file_size": 5044,
+        "content_type": "application/octet-stream",
+        "content_disposition": "attachment; filename=\"6135J_0585_F 24071_06262025.zip\""
+      },
+      "X_ZIP": {
+        "success": true,
+        "file_path": "downloads\\57612645901_X_ZIP_6135J_0585_F 24071_06262025.zip",
+        "file_size": 5044,
+        "content_type": "application/octet-stream",
+        "content_disposition": "attachment; filename=\"6135J_0585_F 24071_06262025.zip\""
+      },
+      "X_ZIP_COMPRESSED": {
+        "success": true,
+        "file_path": "downloads\\57612645901_X_ZIP_COMPRESSED_6135J_0585_F 24071_06262025.zip",
+        "file_size": 5044,
+        "content_type": "application/octet-stream",
+        "content_disposition": "attachment; filename=\"6135J_0585_F 24071_06262025.zip\""
+      },
+      "MULTIPART": {
+        "success": false,
+        "error": 406
+      },
+      "JSON_METADATA": {
+        "success": true,
+        "file_path": "downloads\\57612645901_JSON_METADATA_6135J_0585_F 24071_06262025.zip",
+        "file_size": 1279,
+        "content_type": "application/vnd.deere.axiom.v3+json",
+        "content_disposition": null
+      },
+      "PARAMS_COMPLETE": {
+        "success": true,
+        "file_path": "downloads\\57612645901_params_offset-1_size-1_6135J_0585_F 24071_06262025.zip",
+        "file_size": 5044,
+        "content_type": "application/octet-stream"
+      }
+    }
+  },
+  {
+    "file_id": "57612392659",
+    "file_name": "DataManager_5ff45e8252c211f09e26982cbcbe3556.zip",
+    "file_size": 485358,
+    "download_tests": {
+      "ZIP": {
+        "success": true,
+        "file_path": "downloads\\57612392659_ZIP_DataManager_5ff45e8252c211f09e26982cbcbe3556.zip",
+        "file_size": 485358,
+        "content_type": "application/octet-stream",
+        "content_disposition": "attachment; filename=\"DataManager_5ff45e8252c211f09e26982cbcbe3556.zip\""
+      },
+      "OCTET_STREAM": {
+        "success": true,
+        "file_path": "downloads\\57612392659_OCTET_STREAM_DataManager_5ff45e8252c211f09e26982cbcbe3556.zip",
+        "file_size": 485358,
+        "content_type": "application/octet-stream",
+        "content_disposition": "attachment; filename=\"DataManager_5ff45e8252c211f09e26982cbcbe3556.zip\""
+      },
+      "X_ZIP": {
+        "success": true,
+        "file_path": "downloads\\57612392659_X_ZIP_DataManager_5ff45e8252c211f09e26982cbcbe3556.zip",
+        "file_size": 485358,
+        "content_type": "application/octet-stream",
+        "content_disposition": "attachment; filename=\"DataManager_5ff45e8252c211f09e26982cbcbe3556.zip\""
+      },
+      "X_ZIP_COMPRESSED": {
+        "success": true,
+        "file_path": "downloads\\57612392659_X_ZIP_COMPRESSED_DataManager_5ff45e8252c211f09e26982cbcbe3556.zip",
+        "file_size": 485358,
+        "content_type": "application/octet-stream",
+        "content_disposition": "attachment; filename=\"DataManager_5ff45e8252c211f09e26982cbcbe3556.zip\""
+      },
+      "MULTIPART": {
+        "success": false,
+        "error": 406
+      },
+      "JSON_METADATA": {
+        "success": true,
+        "file_path": "downloads\\57612392659_JSON_METADATA_DataManager_5ff45e8252c211f09e26982cbcbe3556.zip",
+        "file_size": 1296,
+        "content_type": "application/vnd.deere.axiom.v3+json",
+        "content_disposition": null
+      },
+      "PARAMS_COMPLETE": {
+        "success": true,
+        "file_path": "downloads\\57612392659_params_offset-1_size-1_DataManager_5ff45e8252c211f09e26982cbcbe3556.zip",
+        "file_size": 485358,
+        "content_type": "application/octet-stream"
+      }
+    }
+  }
+]

@@ -1,0 +1,507 @@
+{
+  "links": [
+    {
+      "@type": "Link",
+      "rel": "self",
+      "uri": "https://sandboxapi.deere.com/platform/organizations/5881930/fileTransfers"
+    },
+    {
+      "@type": "Link",
+      "rel": "nextPage",
+      "uri": "https://sandboxapi.deere.com/platform/organizations/5881930/fileTransfers?pageOffset=10&itemLimit=10"
+    }
+  ],
+  "total": 418,
+  "values": [
+    {
+      "@type": "FileTransfer",
+      "file": {
+        "@type": "File",
+        "name": "Work_Setup_APPLICATION_20250311_1015.zip",
+        "type": "SETUP",
+        "createdTime": "2025-03-11T13:15:50.457Z",
+        "modifiedTime": "2025-03-11T13:15:51.701Z",
+        "nativeSize": 59268,
+        "source": "imiranda@bracell.com",
+        "status": "READY",
+        "archived": false,
+        "id": "57364460762",
+        "links": [
+          {
+            "@type": "Link",
+            "rel": "self",
+            "uri": "https://api.deere.com/platform/files/57364460762"
+          }
+        ]
+      },
+      "source": "HOST",
+      "transferInitiationTime": "2025-03-11T13:15:50.000Z",
+      "lastUpdatedTime": "2025-03-14T09:57:12.000Z",
+      "status": "WDT_OPERATOR_ACCEPTED",
+      "id": "120710695748208279",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "file",
+          "uri": "https://api.deere.com/platform/files/57364460762"
+        },
+        {
+          "@type": "Link",
+          "rel": "machine",
+          "uri": "https://api.deere.com/platform/machines/2096525"
+        },
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://api.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://api.deere.com/platform/fileTransfers/120710695748208279"
+        }
+      ]
+    },
+    {
+      "@type": "FileTransfer",
+      "file": {
+        "@type": "File",
+        "name": "GS3_2630.zip",
+        "type": "SETUP",
+        "createdTime": "2025-05-09T19:22:17.222Z",
+        "modifiedTime": "2025-05-09T19:22:23.393Z",
+        "nativeSize": 637343,
+        "source": "gcvalerio",
+        "status": "READY",
+        "archived": false,
+        "id": "57513106962",
+        "links": [
+          {
+            "@type": "Link",
+            "rel": "self",
+            "uri": "https://api.deere.com/platform/files/57513106962"
+          }
+        ]
+      },
+      "source": "HOST",
+      "transferInitiationTime": "2025-05-09T19:25:57.000Z",
+      "lastUpdatedTime": "2025-05-09T19:40:00.000Z",
+      "status": "WDT_OPERATOR_ACCEPTED",
+      "id": "123785913022806508",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "file",
+          "uri": "https://api.deere.com/platform/files/57513106962"
+        },
+        {
+          "@type": "Link",
+          "rel": "machine",
+          "uri": "https://api.deere.com/platform/machines/2096410"
+        },
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://api.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://api.deere.com/platform/fileTransfers/123785913022806508"
+        }
+      ]
+    },
+    {
+      "@type": "FileTransfer",
+      "file": {
+        "@type": "File",
+        "name": "GS3_2630.zip",
+        "type": "SETUP",
+        "createdTime": "2025-04-08T20:21:47.468Z",
+        "modifiedTime": "2025-04-08T20:21:53.530Z",
+        "nativeSize": 2065338,
+        "source": "gcvalerio",
+        "status": "READY",
+        "archived": false,
+        "id": "57430666863",
+        "links": [
+          {
+            "@type": "Link",
+            "rel": "self",
+            "uri": "https://api.deere.com/platform/files/57430666863"
+          }
+        ]
+      },
+      "source": "HOST",
+      "transferInitiationTime": "2025-04-11T18:20:24.000Z",
+      "lastUpdatedTime": "2025-04-15T09:44:41.000Z",
+      "status": "WDT_OPERATOR_ACCEPTED",
+      "id": "141292310990182704",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "file",
+          "uri": "https://api.deere.com/platform/files/57430666863"
+        },
+        {
+          "@type": "Link",
+          "rel": "machine",
+          "uri": "https://api.deere.com/platform/machines/2294144"
+        },
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://api.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://api.deere.com/platform/fileTransfers/141292310990182704"
+        }
+      ]
+    },
+    {
+      "@type": "FileTransfer",
+      "file": {
+        "@type": "File",
+        "name": "Work_Setup_APPLICATION_20250304_1212.zip",
+        "type": "SETUP",
+        "createdTime": "2025-03-04T15:12:45.322Z",
+        "modifiedTime": "2025-03-04T15:12:45.699Z",
+        "nativeSize": 11201,
+        "source": "imiranda@bracell.com",
+        "status": "READY",
+        "archived": false,
+        "id": "57348741164",
+        "links": [
+          {
+            "@type": "Link",
+            "rel": "self",
+            "uri": "https://api.deere.com/platform/files/57348741164"
+          }
+        ]
+      },
+      "source": "HOST",
+      "transferInitiationTime": "2025-03-04T15:12:45.000Z",
+      "lastUpdatedTime": "2025-03-04T15:51:58.000Z",
+      "status": "WDT_OPERATOR_ACCEPTED",
+      "id": "183635776992841609",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "file",
+          "uri": "https://api.deere.com/platform/files/57348741164"
+        },
+        {
+          "@type": "Link",
+          "rel": "machine",
+          "uri": "https://api.deere.com/platform/machines/2096525"
+        },
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://api.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://api.deere.com/platform/fileTransfers/183635776992841609"
+        }
+      ]
+    },
+    {
+      "@type": "FileTransfer",
+      "file": {
+        "@type": "File",
+        "name": "GS3_2630.zip",
+        "type": "SETUP",
+        "createdTime": "2025-04-14T16:45:47.164Z",
+        "modifiedTime": "2025-04-14T16:45:50.920Z",
+        "nativeSize": 93337,
+        "source": "gcvalerio",
+        "status": "READY",
+        "archived": false,
+        "id": "57445615003",
+        "links": [
+          {
+            "@type": "Link",
+            "rel": "self",
+            "uri": "https://api.deere.com/platform/files/57445615003"
+          }
+        ]
+      },
+      "source": "HOST",
+      "transferInitiationTime": "2025-04-14T16:46:18.000Z",
+      "lastUpdatedTime": "2025-04-17T12:01:06.000Z",
+      "status": "WDT_OPERATOR_ACCEPTED",
+      "id": "296182274649691862",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "file",
+          "uri": "https://api.deere.com/platform/files/57445615003"
+        },
+        {
+          "@type": "Link",
+          "rel": "machine",
+          "uri": "https://api.deere.com/platform/machines/2096406"
+        },
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://api.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://api.deere.com/platform/fileTransfers/296182274649691862"
+        }
+      ]
+    },
+    {
+      "@type": "FileTransfer",
+      "file": {
+        "@type": "File",
+        "name": "GS3_2630.zip",
+        "type": "SETUP",
+        "createdTime": "2025-05-22T12:01:50.536Z",
+        "modifiedTime": "2025-05-22T12:01:58.210Z",
+        "nativeSize": 164232,
+        "source": "gcvalerio",
+        "status": "READY",
+        "archived": false,
+        "id": "57543668181",
+        "links": [
+          {
+            "@type": "Link",
+            "rel": "self",
+            "uri": "https://api.deere.com/platform/files/57543668181"
+          }
+        ]
+      },
+      "source": "HOST",
+      "transferInitiationTime": "2025-05-22T12:12:51.000Z",
+      "lastUpdatedTime": "2025-05-24T11:00:25.000Z",
+      "status": "WDT_SUCCESS",
+      "id": "300991707843934046",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "file",
+          "uri": "https://api.deere.com/platform/files/57543668181"
+        },
+        {
+          "@type": "Link",
+          "rel": "machine",
+          "uri": "https://api.deere.com/platform/machines/2203378"
+        },
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://api.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://api.deere.com/platform/fileTransfers/300991707843934046"
+        }
+      ]
+    },
+    {
+      "@type": "FileTransfer",
+      "file": {
+        "@type": "File",
+        "name": "GS3_2630.zip",
+        "type": "SETUP",
+        "createdTime": "2025-04-14T19:50:12.982Z",
+        "modifiedTime": "2025-04-14T19:50:17.509Z",
+        "nativeSize": 1420419,
+        "source": "gcvalerio",
+        "status": "READY",
+        "archived": false,
+        "id": "57445923882",
+        "links": [
+          {
+            "@type": "Link",
+            "rel": "self",
+            "uri": "https://api.deere.com/platform/files/57445923882"
+          }
+        ]
+      },
+      "source": "HOST",
+      "transferInitiationTime": "2025-04-15T11:38:50.000Z",
+      "lastUpdatedTime": "2025-04-21T16:26:53.000Z",
+      "status": "WDT_OPERATOR_ACCEPTED",
+      "id": "314471505049011316",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "file",
+          "uri": "https://api.deere.com/platform/files/57445923882"
+        },
+        {
+          "@type": "Link",
+          "rel": "machine",
+          "uri": "https://api.deere.com/platform/machines/2210142"
+        },
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://api.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://api.deere.com/platform/fileTransfers/314471505049011316"
+        }
+      ]
+    },
+    {
+      "@type": "FileTransfer",
+      "file": {
+        "@type": "File",
+        "name": "GS3_2630.zip",
+        "type": "SETUP",
+        "createdTime": "2025-05-29T19:08:21.539Z",
+        "modifiedTime": "2025-05-29T19:08:28.584Z",
+        "nativeSize": 400158,
+        "source": "gcvalerio",
+        "status": "READY",
+        "archived": false,
+        "id": "57557985055",
+        "links": [
+          {
+            "@type": "Link",
+            "rel": "self",
+            "uri": "https://api.deere.com/platform/files/57557985055"
+          }
+        ]
+      },
+      "source": "HOST",
+      "transferInitiationTime": "2025-05-29T19:10:56.000Z",
+      "lastUpdatedTime": "2025-05-30T12:18:34.000Z",
+      "status": "WDT_OPERATOR_ACCEPTED",
+      "id": "419422045806616276",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "file",
+          "uri": "https://api.deere.com/platform/files/57557985055"
+        },
+        {
+          "@type": "Link",
+          "rel": "machine",
+          "uri": "https://api.deere.com/platform/machines/536978"
+        },
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://api.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://api.deere.com/platform/fileTransfers/419422045806616276"
+        }
+      ]
+    },
+    {
+      "@type": "FileTransfer",
+      "file": {
+        "@type": "File",
+        "name": "Work_Setup_APPLICATION_20250314_1334.zip",
+        "type": "SETUP",
+        "createdTime": "2025-03-14T16:35:05.272Z",
+        "modifiedTime": "2025-03-14T16:35:05.774Z",
+        "nativeSize": 333862,
+        "source": "lmessias",
+        "status": "READY",
+        "archived": false,
+        "id": "57372572828",
+        "links": [
+          {
+            "@type": "Link",
+            "rel": "self",
+            "uri": "https://api.deere.com/platform/files/57372572828"
+          }
+        ]
+      },
+      "source": "HOST",
+      "transferInitiationTime": "2025-03-14T16:35:06.000Z",
+      "lastUpdatedTime": "2025-03-14T17:51:06.000Z",
+      "status": "WDT_OPERATOR_ACCEPTED",
+      "id": "420248025542117109",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "file",
+          "uri": "https://api.deere.com/platform/files/57372572828"
+        },
+        {
+          "@type": "Link",
+          "rel": "machine",
+          "uri": "https://api.deere.com/platform/machines/1349561"
+        },
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://api.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://api.deere.com/platform/fileTransfers/420248025542117109"
+        }
+      ]
+    },
+    {
+      "@type": "FileTransfer",
+      "file": {
+        "@type": "File",
+        "name": "GS3_2630.zip",
+        "type": "SETUP",
+        "createdTime": "2025-01-08T13:50:57.514Z",
+        "modifiedTime": "2025-01-08T13:51:04.599Z",
+        "nativeSize": 365809,
+        "source": "jrsilva@bracell.com",
+        "status": "READY",
+        "archived": false,
+        "id": "57228506600",
+        "links": [
+          {
+            "@type": "Link",
+            "rel": "self",
+            "uri": "https://api.deere.com/platform/files/57228506600"
+          }
+        ]
+      },
+      "source": "HOST",
+      "transferInitiationTime": "2025-01-08T13:51:29.000Z",
+      "lastUpdatedTime": "2025-03-08T16:17:40.000Z",
+      "status": "WDT_OPERATOR_ACCEPTED",
+      "id": "432275686282141926",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "file",
+          "uri": "https://api.deere.com/platform/files/57228506600"
+        },
+        {
+          "@type": "Link",
+          "rel": "machine",
+          "uri": "https://api.deere.com/platform/machines/538829"
+        },
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://api.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://api.deere.com/platform/fileTransfers/432275686282141926"
+        }
+      ]
+    }
+  ]
+}

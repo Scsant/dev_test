@@ -1,0 +1,47 @@
+[
+  {
+    "file_id": "57612645901",
+    "file_name": "6135J_0585_F 24071_06262025.zip",
+    "file_size": 5044,
+    "direct_download": {
+      "success": true,
+      "file_path": "downloads\\57612645901_6135J_0585_F 24071_06262025.zip",
+      "file_size": 1279,
+      "content_type": "application/vnd.deere.axiom.v3+json"
+    },
+    "presigned_download": {
+      "success": false,
+      "error": 403
+    }
+  },
+  {
+    "file_id": "57612634312",
+    "file_name": "6135J_0573_F 24070_06262025.zip",
+    "file_size": 1577458,
+    "direct_download": {
+      "success": true,
+      "file_path": "downloads\\57612634312_6135J_0573_F 24070_06262025.zip",
+      "file_size": 1282,
+      "content_type": "application/vnd.deere.axiom.v3+json"
+    },
+    "presigned_download": {
+      "success": false,
+      "error": 403
+    }
+  },
+  {
+    "file_id": "57612614632",
+    "file_name": "6135J_0585_F 24071_06262025.zip",
+    "file_size": 1842844,
+    "direct_download": {
+      "success": true,
+      "file_path": "downloads\\57612614632_6135J_0585_F 24071_06262025.zip",
+      "file_size": 1282,
+      "content_type": "application/vnd.deere.axiom.v3+json"
+    },
+    "presigned_download": {
+      "success": false,
+      "error": 403
+    }
+  }
+]

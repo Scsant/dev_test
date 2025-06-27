@@ -1,0 +1,10 @@
+{
+  "links": [
+    {
+      "rel": "self",
+      "uri": "https://sandboxapi.deere.com/platform/organizations/5881930/fields/19f73266-741a-99e1-3c04-a513c7481e3f/guidanceLines?status=available"
+    }
+  ],
+  "total": 0,
+  "values": []
+}

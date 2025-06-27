@@ -1,0 +1,605 @@
+{
+  "links": [
+    {
+      "rel": "self",
+      "uri": "https://sandboxapi.deere.com/platform/files?filter=ALL"
+    },
+    {
+      "rel": "nextPage",
+      "uri": "https://sandboxapi.deere.com/platform/files?filter=ALL&pageOffset=10&itemLimit=10"
+    }
+  ],
+  "total": 59922,
+  "values": [
+    {
+      "@type": "File",
+      "name": "6135J_0585_F 24071_06262025.zip",
+      "type": "DOC",
+      "createdTime": "2025-06-26T23:04:31.714Z",
+      "modifiedTime": "2025-06-26T23:04:34.417Z",
+      "nativeSize": 5044,
+      "source": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+      "transferPending": false,
+      "visibleViaShare": "owned",
+      "shared": false,
+      "new": false,
+      "status": "READY",
+      "archived": false,
+      "format": "GS4_4600Plugin",
+      "manufacturer": "John Deere",
+      "delayProcessing": false,
+      "boundaryData": false,
+      "organizationId": 5881930,
+      "clientKey": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+      "id": "57612645901",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "partnerships",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612645901/partnerships"
+        },
+        {
+          "@type": "Link",
+          "rel": "download",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612645901"
+        },
+        {
+          "@type": "Link",
+          "rel": "presignedDownload",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612645901/presignedDownload"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612645901"
+        },
+        {
+          "@type": "Link",
+          "rel": "fileActivities",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612645901/fileActivities"
+        },
+        {
+          "@type": "Link",
+          "rel": "latestFileActivity",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612645901/fileActivities?latest=true"
+        }
+      ]
+    },
+    {
+      "@type": "File",
+      "name": "6135J_0573_F 24070_06262025.zip",
+      "type": "DOC",
+      "createdTime": "2025-06-26T22:59:06.247Z",
+      "modifiedTime": "2025-06-26T22:59:12.843Z",
+      "nativeSize": 1577458,
+      "source": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+      "transferPending": false,
+      "visibleViaShare": "owned",
+      "shared": false,
+      "new": false,
+      "status": "READY",
+      "archived": false,
+      "format": "GS4_4600Plugin",
+      "manufacturer": "John Deere",
+      "delayProcessing": false,
+      "boundaryData": false,
+      "organizationId": 5881930,
+      "clientKey": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+      "id": "57612634312",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "partnerships",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612634312/partnerships"
+        },
+        {
+          "@type": "Link",
+          "rel": "download",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612634312"
+        },
+        {
+          "@type": "Link",
+          "rel": "presignedDownload",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612634312/presignedDownload"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612634312"
+        },
+        {
+          "@type": "Link",
+          "rel": "fileActivities",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612634312/fileActivities"
+        },
+        {
+          "@type": "Link",
+          "rel": "latestFileActivity",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612634312/fileActivities?latest=true"
+        }
+      ]
+    },
+    {
+      "@type": "File",
+      "name": "6135J_0585_F 24071_06262025.zip",
+      "type": "DOC",
+      "createdTime": "2025-06-26T22:46:55.530Z",
+      "modifiedTime": "2025-06-26T22:47:06.791Z",
+      "nativeSize": 1842844,
+      "source": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+      "transferPending": false,
+      "visibleViaShare": "owned",
+      "shared": false,
+      "new": false,
+      "status": "READY",
+      "archived": false,
+      "format": "GS4_4600Plugin",
+      "manufacturer": "John Deere",
+      "delayProcessing": false,
+      "boundaryData": false,
+      "organizationId": 5881930,
+      "clientKey": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+      "id": "57612614632",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "partnerships",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612614632/partnerships"
+        },
+        {
+          "@type": "Link",
+          "rel": "download",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612614632"
+        },
+        {
+          "@type": "Link",
+          "rel": "presignedDownload",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612614632/presignedDownload"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612614632"
+        },
+        {
+          "@type": "Link",
+          "rel": "fileActivities",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612614632/fileActivities"
+        },
+        {
+          "@type": "Link",
+          "rel": "latestFileActivity",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612614632/fileActivities?latest=true"
+        }
+      ]
+    },
+    {
+      "@type": "File",
+      "name": "6135J_0573_F 24070_06262025.zip",
+      "type": "DOC",
+      "createdTime": "2025-06-26T22:43:19.018Z",
+      "modifiedTime": "2025-06-26T22:43:26.772Z",
+      "nativeSize": 3699862,
+      "source": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+      "transferPending": false,
+      "visibleViaShare": "owned",
+      "shared": false,
+      "new": false,
+      "status": "READY",
+      "archived": false,
+      "format": "GS4_4600Plugin",
+      "manufacturer": "John Deere",
+      "delayProcessing": false,
+      "boundaryData": false,
+      "organizationId": 5881930,
+      "clientKey": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+      "id": "57612608499",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "partnerships",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612608499/partnerships"
+        },
+        {
+          "@type": "Link",
+          "rel": "download",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612608499"
+        },
+        {
+          "@type": "Link",
+          "rel": "presignedDownload",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612608499/presignedDownload"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612608499"
+        },
+        {
+          "@type": "Link",
+          "rel": "fileActivities",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612608499/fileActivities"
+        },
+        {
+          "@type": "Link",
+          "rel": "latestFileActivity",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612608499/fileActivities?latest=true"
+        }
+      ]
+    },
+    {
+      "@type": "File",
+      "name": "6135J_0585_F 24071_06262025.zip",
+      "type": "DOC",
+      "createdTime": "2025-06-26T22:39:14.957Z",
+      "modifiedTime": "2025-06-26T22:39:31.323Z",
+      "nativeSize": 1353199,
+      "source": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+      "transferPending": false,
+      "visibleViaShare": "owned",
+      "shared": false,
+      "new": false,
+      "status": "READY",
+      "archived": false,
+      "format": "GS4_4600Plugin",
+      "manufacturer": "John Deere",
+      "delayProcessing": false,
+      "boundaryData": false,
+      "organizationId": 5881930,
+      "clientKey": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+      "id": "57612605101",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "partnerships",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612605101/partnerships"
+        },
+        {
+          "@type": "Link",
+          "rel": "download",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612605101"
+        },
+        {
+          "@type": "Link",
+          "rel": "presignedDownload",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612605101/presignedDownload"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612605101"
+        },
+        {
+          "@type": "Link",
+          "rel": "fileActivities",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612605101/fileActivities"
+        },
+        {
+          "@type": "Link",
+          "rel": "latestFileActivity",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612605101/fileActivities?latest=true"
+        }
+      ]
+    },
+    {
+      "@type": "File",
+      "name": "7230J_8148_F 20005_06262025.zip",
+      "type": "DOC",
+      "createdTime": "2025-06-26T22:39:04.818Z",
+      "modifiedTime": "2025-06-26T22:39:19.798Z",
+      "nativeSize": 3542252,
+      "source": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+      "transferPending": false,
+      "visibleViaShare": "owned",
+      "shared": false,
+      "new": false,
+      "status": "READY",
+      "archived": false,
+      "format": "GS4_4600Plugin",
+      "manufacturer": "John Deere",
+      "delayProcessing": false,
+      "boundaryData": false,
+      "organizationId": 5881930,
+      "clientKey": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+      "id": "57612604543",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "partnerships",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612604543/partnerships"
+        },
+        {
+          "@type": "Link",
+          "rel": "download",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612604543"
+        },
+        {
+          "@type": "Link",
+          "rel": "presignedDownload",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612604543/presignedDownload"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612604543"
+        },
+        {
+          "@type": "Link",
+          "rel": "fileActivities",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612604543/fileActivities"
+        },
+        {
+          "@type": "Link",
+          "rel": "latestFileActivity",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612604543/fileActivities?latest=true"
+        }
+      ]
+    },
+    {
+      "@type": "File",
+      "name": "DataManager_5ff45e8052c211f08233982cbcbe3556.zip",
+      "type": "DOC",
+      "createdTime": "2025-06-26T19:19:45.752Z",
+      "modifiedTime": "2025-06-26T19:22:40.857Z",
+      "nativeSize": 21435162,
+      "source": "ADS_DATA_MANAGER",
+      "transferPending": false,
+      "visibleViaShare": "owned",
+      "shared": false,
+      "new": false,
+      "status": "READY",
+      "archived": false,
+      "format": "GS4_4600Plugin",
+      "manufacturer": "John Deere",
+      "delayProcessing": false,
+      "boundaryData": false,
+      "organizationId": 5881930,
+      "clientKey": "johndeere-RXnkqMxi7f9isN6FUxqDCpDkWoRe7rkeb2sGqeBf",
+      "id": "57612393668",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "partnerships",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612393668/partnerships"
+        },
+        {
+          "@type": "Link",
+          "rel": "download",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612393668"
+        },
+        {
+          "@type": "Link",
+          "rel": "presignedDownload",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612393668/presignedDownload"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612393668"
+        },
+        {
+          "@type": "Link",
+          "rel": "fileActivities",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612393668/fileActivities"
+        },
+        {
+          "@type": "Link",
+          "rel": "latestFileActivity",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612393668/fileActivities?latest=true"
+        }
+      ]
+    },
+    {
+      "@type": "File",
+      "name": "DataManager_5ff45e8152c211f09b46982cbcbe3556.zip",
+      "type": "DOC",
+      "createdTime": "2025-06-26T19:19:43.659Z",
+      "modifiedTime": "2025-06-26T19:23:11.481Z",
+      "nativeSize": 19189801,
+      "source": "ADS_DATA_MANAGER",
+      "transferPending": false,
+      "visibleViaShare": "owned",
+      "shared": false,
+      "new": false,
+      "status": "READY",
+      "archived": false,
+      "format": "GS4_4600Plugin",
+      "manufacturer": "John Deere",
+      "delayProcessing": false,
+      "boundaryData": false,
+      "organizationId": 5881930,
+      "clientKey": "johndeere-RXnkqMxi7f9isN6FUxqDCpDkWoRe7rkeb2sGqeBf",
+      "id": "57612392613",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "partnerships",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612392613/partnerships"
+        },
+        {
+          "@type": "Link",
+          "rel": "download",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612392613"
+        },
+        {
+          "@type": "Link",
+          "rel": "presignedDownload",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612392613/presignedDownload"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612392613"
+        },
+        {
+          "@type": "Link",
+          "rel": "fileActivities",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612392613/fileActivities"
+        },
+        {
+          "@type": "Link",
+          "rel": "latestFileActivity",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612392613/fileActivities?latest=true"
+        }
+      ]
+    },
+    {
+      "@type": "File",
+      "name": "DataManager_5ff45e8252c211f09e26982cbcbe3556.zip",
+      "type": "DOC",
+      "createdTime": "2025-06-26T19:19:41.883Z",
+      "modifiedTime": "2025-06-26T19:19:58.164Z",
+      "nativeSize": 485358,
+      "source": "ADS_DATA_MANAGER",
+      "transferPending": false,
+      "visibleViaShare": "owned",
+      "shared": false,
+      "new": false,
+      "status": "READY",
+      "archived": false,
+      "format": "GS4_4600Plugin",
+      "manufacturer": "John Deere",
+      "delayProcessing": false,
+      "boundaryData": false,
+      "organizationId": 5881930,
+      "clientKey": "johndeere-RXnkqMxi7f9isN6FUxqDCpDkWoRe7rkeb2sGqeBf",
+      "id": "57612392659",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "partnerships",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612392659/partnerships"
+        },
+        {
+          "@type": "Link",
+          "rel": "download",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612392659"
+        },
+        {
+          "@type": "Link",
+          "rel": "presignedDownload",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612392659/presignedDownload"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612392659"
+        },
+        {
+          "@type": "Link",
+          "rel": "fileActivities",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612392659/fileActivities"
+        },
+        {
+          "@type": "Link",
+          "rel": "latestFileActivity",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612392659/fileActivities?latest=true"
+        }
+      ]
+    },
+    {
+      "@type": "File",
+      "name": "DataManager_5ff1fc8352c211f0a0e1982cbcbe3556.zip",
+      "type": "DOC",
+      "createdTime": "2025-06-26T19:18:46.917Z",
+      "modifiedTime": "2025-06-26T19:21:21.307Z",
+      "nativeSize": 20983768,
+      "source": "ADS_DATA_MANAGER",
+      "transferPending": false,
+      "visibleViaShare": "owned",
+      "shared": false,
+      "new": false,
+      "status": "READY",
+      "archived": false,
+      "format": "GS4_4600Plugin",
+      "manufacturer": "John Deere",
+      "delayProcessing": false,
+      "boundaryData": false,
+      "organizationId": 5881930,
+      "clientKey": "johndeere-RXnkqMxi7f9isN6FUxqDCpDkWoRe7rkeb2sGqeBf",
+      "id": "57612393041",
+      "links": [
+        {
+          "@type": "Link",
+          "rel": "owningOrganization",
+          "uri": "https://sandboxapi.deere.com/platform/organizations/5881930"
+        },
+        {
+          "@type": "Link",
+          "rel": "partnerships",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612393041/partnerships"
+        },
+        {
+          "@type": "Link",
+          "rel": "download",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612393041"
+        },
+        {
+          "@type": "Link",
+          "rel": "presignedDownload",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612393041/presignedDownload"
+        },
+        {
+          "@type": "Link",
+          "rel": "self",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612393041"
+        },
+        {
+          "@type": "Link",
+          "rel": "fileActivities",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612393041/fileActivities"
+        },
+        {
+          "@type": "Link",
+          "rel": "latestFileActivity",
+          "uri": "https://sandboxapi.deere.com/platform/files/57612393041/fileActivities?latest=true"
+        }
+      ]
+    }
+  ]
+}

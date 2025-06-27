@@ -1,0 +1,65 @@
+{
+  "file_id": "57612634312",
+  "file_name": "6135J_0573_F 24070_06262025.zip",
+  "details": {
+    "@type": "File",
+    "name": "6135J_0573_F 24070_06262025.zip",
+    "type": "DOC",
+    "createdTime": "2025-06-26T22:59:06.247Z",
+    "modifiedTime": "2025-06-26T22:59:12.843Z",
+    "nativeSize": 1577458,
+    "source": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+    "transferPending": false,
+    "visibleViaShare": "owned",
+    "shared": false,
+    "new": false,
+    "status": "READY",
+    "archived": false,
+    "format": "GS4_4600Plugin",
+    "manufacturer": "John Deere",
+    "delayProcessing": false,
+    "boundaryData": false,
+    "organizationId": 5881930,
+    "clientKey": "johndeere-6nsmVEpKppo7T5XFkIEHiiAR",
+    "id": "57612634312",
+    "links": [
+      {
+        "@type": "Link",
+        "rel": "owningOrganization",
+        "uri": "https://api.deere.com/platform/organizations/5881930"
+      },
+      {
+        "@type": "Link",
+        "rel": "partnerships",
+        "uri": "https://api.deere.com/platform/files/57612634312/partnerships"
+      },
+      {
+        "@type": "Link",
+        "rel": "download",
+        "uri": "https://api.deere.com/platform/files/57612634312"
+      },
+      {
+        "@type": "Link",
+        "rel": "presignedDownload",
+        "uri": "https://api.deere.com/platform/files/57612634312/presignedDownload"
+      },
+      {
+        "@type": "Link",
+        "rel": "self",
+        "uri": "https://api.deere.com/platform/files/57612634312"
+      },
+      {
+        "@type": "Link",
+        "rel": "fileActivities",
+        "uri": "https://api.deere.com/platform/files/57612634312/fileActivities"
+      },
+      {
+        "@type": "Link",
+        "rel": "latestFileActivity",
+        "uri": "https://api.deere.com/platform/files/57612634312/fileActivities?latest=true"
+      }
+    ]
+  },
+  "activities": null,
+  "partnerships": null
+}
