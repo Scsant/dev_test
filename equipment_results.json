@@ -1,0 +1,3678 @@
+{
+  "links": [],
+  "values": [
+    {
+      "@type": "Machine",
+      "name": "7230J_1614_F 20020",
+      "serialNumber": "1BM7230JLPH011614",
+      "engineSerialNumber": "J06068L782151",
+      "isSerialNumberCertified": false,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "2096525",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-11-05T17:35:57.639Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5060965",
+      "ERID": "a256a396-d3d3-4fc1-a02a-8550decc1db8"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_1646_F 20014",
+      "serialNumber": "1BM7230JHPH011646",
+      "engineSerialNumber": "J06068L782474",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "2096403",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-11-05T17:36:22.138Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5060966",
+      "ERID": "6c47e069-b0de-450b-b3b8-f4ebb975e3b8"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_8148_F 20005",
+      "serialNumber": "1BM7230JTNH008148",
+      "engineSerialNumber": "J06068L766879",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "1322613",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-11-05T18:12:24.747Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5061037",
+      "ERID": "aaf6f519-84c8-4cb2-b569-01af32cf86f6"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_8569_F 20007",
+      "serialNumber": "1BM7230JPNH008569",
+      "engineSerialNumber": "J06068L768875",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "1349561",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-11-05T18:12:48.398Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5061038",
+      "ERID": "3d836741-2f9b-4680-9804-51e129de7a26"
+    },
+    {
+      "@type": "Machine",
+      "name": "7200J_0978_F 5023",
+      "serialNumber": "1BM7200JTJH000978",
+      "engineSerialNumber": "J06068L730170",
+      "isSerialNumberCertified": true,
+      "modelYear": "2018",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7200J",
+        "certified": true,
+        "deprecated": false,
+        "id": "733817",
+        "ERID": "669c7089-7f4e-460b-b92b-276c4c4eef13"
+      },
+      "principalId": "536978",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-11-12T12:51:13.385Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5070093",
+      "ERID": "f377c1ab-6866-430c-9138-fcd2fe7060a6"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_1630_F 20025",
+      "serialNumber": "1BM7230JAPH011630",
+      "engineSerialNumber": "J06068L782475",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "2096409",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-11-27T19:14:13.51Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5104878",
+      "ERID": "2af23d00-2169-4591-b42c-e5eeee2ccc33"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_8568_F 20006",
+      "serialNumber": "1BM7230JTNH008568",
+      "engineSerialNumber": "J06068L768860",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "1349572",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-11-27T19:14:39.033Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5104880",
+      "ERID": "1e672c9b-b87a-482b-89a5-18fafd22aaa3"
+    },
+    {
+      "@type": "Machine",
+      "name": "7200J_0977_F 5022",
+      "serialNumber": "1BM7200JCJH000977",
+      "engineSerialNumber": "J06068L730142",
+      "isSerialNumberCertified": true,
+      "modelYear": "2018",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7200J",
+        "certified": true,
+        "deprecated": false,
+        "id": "733817",
+        "ERID": "669c7089-7f4e-460b-b92b-276c4c4eef13"
+      },
+      "principalId": "536979",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-12-18T18:44:02.59Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5143997",
+      "ERID": "e72ece11-c362-4fcd-8d16-3ffddc9a13cc"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_1618_ F 20019",
+      "serialNumber": "1BM7230JTPH011618",
+      "engineSerialNumber": "J06068L782117",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "2096408",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-12-18T18:44:44.623Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5143999",
+      "ERID": "b7cb6133-4c97-4512-b93f-e89f884e35b2"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_1640_F 20023",
+      "serialNumber": "1BM7230JKPH011640",
+      "engineSerialNumber": "J06068L781918",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "2094995",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-12-18T18:45:15.605Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5144000",
+      "ERID": "e1ba3c9a-f46b-4f7c-b9ba-7c6a0f253e90"
+    },
+    {
+      "@type": "Machine",
+      "name": "7200J_0984_F 5024",
+      "serialNumber": "1BM7200JJJH000984",
+      "engineSerialNumber": "J06068L730413",
+      "isSerialNumberCertified": true,
+      "modelYear": "2018",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7200J",
+        "certified": true,
+        "deprecated": false,
+        "id": "733817",
+        "ERID": "669c7089-7f4e-460b-b92b-276c4c4eef13"
+      },
+      "principalId": "538885",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-12-20T14:12:36.639Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5148809",
+      "ERID": "5530c686-156f-4f88-91bb-beb564731daa"
+    },
+    {
+      "@type": "Machine",
+      "name": "6135J_0573_F 24070",
+      "serialNumber": "1BM6135JTPD630573",
+      "engineSerialNumber": "J06068L781370",
+      "isSerialNumberCertified": false,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2203378",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-12-26T18:02:09.608Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5153847",
+      "ERID": "dbfe2961-df71-476d-8af5-2e45e0afc3a5"
+    },
+    {
+      "@type": "Machine",
+      "name": "6135J_0585_F 24071",
+      "serialNumber": "1BM6135JEPD630585",
+      "engineSerialNumber": "J06068L782408",
+      "isSerialNumberCertified": false,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2210142",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-12-26T18:02:33.998Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5153849",
+      "ERID": "86f33cd9-3b27-496b-aae3-c7241503ec82"
+    },
+    {
+      "@type": "Machine",
+      "name": "6135J_0634_F 24081",
+      "serialNumber": "1BM6135JARD630634",
+      "engineSerialNumber": "J06068L783597",
+      "isSerialNumberCertified": false,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2294144",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-12-26T18:02:53.233Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5153850",
+      "ERID": "6658b24f-a54e-41db-88da-dd2f5775a5f7"
+    },
+    {
+      "@type": "Machine",
+      "name": "7200J_1995_F 20000",
+      "serialNumber": "1BM7200JALH001995",
+      "engineSerialNumber": "J06068L748912",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7200J",
+        "certified": true,
+        "deprecated": false,
+        "id": "733817",
+        "ERID": "669c7089-7f4e-460b-b92b-276c4c4eef13"
+      },
+      "principalId": "775495",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-12-27T15:57:57.096Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5154698",
+      "ERID": "0785b02e-2e39-417e-acaa-f13153541f75"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_1627_F 20021",
+      "serialNumber": "1BM7230JAPH011627",
+      "engineSerialNumber": "J06068L782154",
+      "isSerialNumberCertified": false,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "2095010",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-12-27T15:58:25.163Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5154700",
+      "ERID": "bd3a484b-680e-46b6-86b9-344d28d3a8d2"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_1652_F 20026",
+      "serialNumber": "1BM7230JTPH011652",
+      "engineSerialNumber": "J06068L782456",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "2096410",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2024-12-27T15:58:49.717Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5154702",
+      "ERID": "097b5823-520d-46ba-bb06-a2f91e898630"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_1643_ F 20017",
+      "serialNumber": "1BM7230JVPH011643",
+      "engineSerialNumber": "J06068L782138",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "2096406",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-01-02T15:10:22.784Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159529",
+      "ERID": "f66953d5-d6d1-411d-a4f0-2aba7fb6f2b5"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_1639_F 20024",
+      "serialNumber": "1BM7230JCPH011639",
+      "engineSerialNumber": "J06068L782235",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "2094996",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-01-02T15:10:48.612Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159532",
+      "ERID": "6e562700-792c-4df5-a182-e626d2e3664a"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_1650_F 20022",
+      "serialNumber": "1BM7230JEPH011650",
+      "engineSerialNumber": "J06068L782128",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "2095011",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-01-02T15:11:24.033Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159533",
+      "ERID": "a8180fcb-d812-464e-9f65-b15ef9f2bd8f"
+    },
+    {
+      "@type": "Machine",
+      "name": "6135J_0452_F 24067",
+      "serialNumber": "1BM6135JVPD630452",
+      "engineSerialNumber": "J06068L776170",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "1958543",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-05-16T13:30:19.825Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-01-02T17:08:45.059Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159851",
+      "ERID": "2f1e2d0b-46f5-40e3-be4f-e1451f6c37fd"
+    },
+    {
+      "@type": "Machine",
+      "name": "6115J_1994_F 24116",
+      "serialNumber": "1BM6115JARD601994",
+      "engineSerialNumber": "J04045L757226",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6115J",
+        "certified": true,
+        "deprecated": false,
+        "id": "577553",
+        "ERID": "f0c0fdbc-a087-4dea-8770-e72827b09f87"
+      },
+      "principalId": "2456930",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:35:11.066Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:35:11.066Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159895",
+      "ERID": "0333968d-8714-406a-a417-75ec954fbb0b"
+    },
+    {
+      "@type": "Machine",
+      "name": "6115J_1958_F 24100",
+      "serialNumber": "1BM6115JCRD601958",
+      "engineSerialNumber": "J04045L757039",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6115J",
+        "certified": true,
+        "deprecated": false,
+        "id": "577553",
+        "ERID": "f0c0fdbc-a087-4dea-8770-e72827b09f87"
+      },
+      "principalId": "2438769",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:37:21.807Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:37:21.807Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159896",
+      "ERID": "630ead1f-8809-42e7-81a7-26ab7cf9f5d6"
+    },
+    {
+      "@type": "Machine",
+      "name": "6115J_1988_F 24117",
+      "serialNumber": "1BM6115JJRD601988",
+      "engineSerialNumber": "J04045L757128",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6115J",
+        "certified": true,
+        "deprecated": false,
+        "id": "577553",
+        "ERID": "f0c0fdbc-a087-4dea-8770-e72827b09f87"
+      },
+      "principalId": "2456929",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:38:34.696Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:38:34.696Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159897",
+      "ERID": "1f1712b9-3863-4c42-8b17-0842b653050d"
+    },
+    {
+      "@type": "Machine",
+      "name": "6115J_1950_F 24098",
+      "serialNumber": "1BM6115JLRD601950",
+      "engineSerialNumber": "J04045L757002",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6115J",
+        "certified": true,
+        "deprecated": false,
+        "id": "577553",
+        "ERID": "f0c0fdbc-a087-4dea-8770-e72827b09f87"
+      },
+      "principalId": "2438759",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:36:32.452Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:36:32.452Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159898",
+      "ERID": "83ccdc63-07c1-45c1-97be-678ebf24aa6f"
+    },
+    {
+      "@type": "Machine",
+      "name": "6115J_1995_F 24114",
+      "serialNumber": "1BM6115JLRD601995",
+      "engineSerialNumber": "J04045L757225",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6115J",
+        "certified": true,
+        "deprecated": false,
+        "id": "577553",
+        "ERID": "f0c0fdbc-a087-4dea-8770-e72827b09f87"
+      },
+      "principalId": "2456927",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:35:28.36Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:35:28.36Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159899",
+      "ERID": "60764cc6-7a70-4189-af38-0d4ba698940e"
+    },
+    {
+      "@type": "Machine",
+      "name": "6115J_1955_F 24099",
+      "serialNumber": "1BM6115JPRD601955",
+      "engineSerialNumber": "J04045L756911",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6115J",
+        "certified": true,
+        "deprecated": false,
+        "id": "577553",
+        "ERID": "f0c0fdbc-a087-4dea-8770-e72827b09f87"
+      },
+      "principalId": "2438763",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:36:47.739Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:36:47.739Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159900",
+      "ERID": "bcd060cf-6121-417e-853a-5bd078aacfeb"
+    },
+    {
+      "@type": "Machine",
+      "name": "6135J_0623_F 24080",
+      "serialNumber": "1BM6135JERD630623",
+      "engineSerialNumber": "J06068L783241",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2266757",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:39:12.922Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:39:12.922Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159901",
+      "ERID": "60a02c61-8d47-4e28-bb38-3b2ac806746b"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6170JARD650848",
+      "serialNumber": "1BM6170JARD650848",
+      "engineSerialNumber": "J06068L785713",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6170J",
+        "certified": true,
+        "deprecated": false,
+        "id": "583357",
+        "ERID": "d24b0bd8-bbc6-4c3e-80ba-d0919c15da65"
+      },
+      "principalId": "2441788",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:35:54.08Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:35:54.08Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159902",
+      "ERID": "c7e93b49-a5b5-4f13-abd3-33cbe5302648"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6170JKRD650844",
+      "serialNumber": "1BM6170JKRD650844",
+      "engineSerialNumber": "J06068L785660",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6170J",
+        "certified": true,
+        "deprecated": false,
+        "id": "583357",
+        "ERID": "d24b0bd8-bbc6-4c3e-80ba-d0919c15da65"
+      },
+      "principalId": "2440366",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:35:55.323Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:35:55.323Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159903",
+      "ERID": "9bb44cb0-fdea-4e27-98f9-2805b8cd416e"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6170JPRD650843",
+      "serialNumber": "1BM6170JPRD650843",
+      "engineSerialNumber": "J06068L785718",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6170J",
+        "certified": true,
+        "deprecated": false,
+        "id": "583357",
+        "ERID": "d24b0bd8-bbc6-4c3e-80ba-d0919c15da65"
+      },
+      "principalId": "2440364",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:35:56.594Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:35:56.594Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159904",
+      "ERID": "1da0e3b1-97fa-4051-a933-52e8f747f7ee"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6170JTRD650842",
+      "serialNumber": "1BM6170JTRD650842",
+      "engineSerialNumber": "J06068L785654",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6170J",
+        "certified": true,
+        "deprecated": false,
+        "id": "583357",
+        "ERID": "d24b0bd8-bbc6-4c3e-80ba-d0919c15da65"
+      },
+      "principalId": "2440365",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:35:57.772Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:35:57.772Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159905",
+      "ERID": "5cd546b6-729d-46e7-941a-4ce4dd438b1a"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6170JVRD650847",
+      "serialNumber": "1BM6170JVRD650847",
+      "engineSerialNumber": "J06068L785714",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6170J",
+        "certified": true,
+        "deprecated": false,
+        "id": "583357",
+        "ERID": "d24b0bd8-bbc6-4c3e-80ba-d0919c15da65"
+      },
+      "principalId": "2440367",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:35:58.956Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:35:58.956Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159906",
+      "ERID": "8e62f52a-3041-43ac-a20f-6dda8b55cca1"
+    },
+    {
+      "@type": "Machine",
+      "name": "6115J_1956_F 24097",
+      "serialNumber": "1BM6115JKRD601956",
+      "engineSerialNumber": "J04045L756909",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6115J",
+        "certified": true,
+        "deprecated": false,
+        "id": "577553",
+        "ERID": "f0c0fdbc-a087-4dea-8770-e72827b09f87"
+      },
+      "principalId": "2438767",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:37:03.684Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:37:03.684Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159913",
+      "ERID": "b470b772-6917-4fd3-971c-c828262ee441"
+    },
+    {
+      "@type": "Machine",
+      "name": "6115J_1951_F 24101",
+      "serialNumber": "1BM6115JHRD601951",
+      "engineSerialNumber": "J04045L756914",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6115J",
+        "certified": true,
+        "deprecated": false,
+        "id": "577553",
+        "ERID": "f0c0fdbc-a087-4dea-8770-e72827b09f87"
+      },
+      "principalId": "2438773",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:36:32.801Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:36:32.801Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159914",
+      "ERID": "2a2ddcf3-951c-4b5a-8167-fbb11c5f6f11"
+    },
+    {
+      "@type": "Machine",
+      "name": "6115J_1964_F 24094",
+      "serialNumber": "1BM6115JLRD601964",
+      "engineSerialNumber": "J04045L756852",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6115J",
+        "certified": true,
+        "deprecated": false,
+        "id": "577553",
+        "ERID": "f0c0fdbc-a087-4dea-8770-e72827b09f87"
+      },
+      "principalId": "2444196",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:37:50.851Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:37:50.851Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159915",
+      "ERID": "a22f3c39-4d9a-4330-8b12-c669ea4cc2ad"
+    },
+    {
+      "@type": "Machine",
+      "name": "6115J_1969_F 24093",
+      "serialNumber": "1BM6115JPRD601969",
+      "engineSerialNumber": "J04045L756997",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6115J",
+        "certified": true,
+        "deprecated": false,
+        "id": "577553",
+        "ERID": "f0c0fdbc-a087-4dea-8770-e72827b09f87"
+      },
+      "principalId": "2444191",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:38:21.413Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:38:21.413Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159916",
+      "ERID": "5664323d-248d-483b-bf41-daf4d4918d14"
+    },
+    {
+      "@type": "Machine",
+      "name": "6115J_1991_F 24115",
+      "serialNumber": "1BM6115JJRD601991",
+      "engineSerialNumber": "J04045L757284",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6115J",
+        "certified": true,
+        "deprecated": false,
+        "id": "577553",
+        "ERID": "f0c0fdbc-a087-4dea-8770-e72827b09f87"
+      },
+      "principalId": "2456931",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:38:57.78Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:38:57.78Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159917",
+      "ERID": "3a5bb0ef-5999-4ecf-821d-34e40c4380c6"
+    },
+    {
+      "@type": "Machine",
+      "name": "6135J_0661_F 24078",
+      "serialNumber": "1BM6135JKRD630661",
+      "engineSerialNumber": "J06068L784111",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2266728",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:40:07.65Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:40:07.65Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159922",
+      "ERID": "42408e6b-bf0f-47f0-b981-be0e9c4df5fe"
+    },
+    {
+      "@type": "Machine",
+      "name": "6135J_0657_F 24076",
+      "serialNumber": "1BM6135JPRD630657",
+      "engineSerialNumber": "J06068L784094",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2294071",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:39:54.426Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:39:54.426Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159923",
+      "ERID": "3cc59531-a5b2-4a64-a907-d7934e5f212d"
+    },
+    {
+      "@type": "Machine",
+      "name": "6135J_0654_F 24074",
+      "serialNumber": "1BM6135JERD630654",
+      "engineSerialNumber": "J06068L784333",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2294073",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:39:41.356Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:39:41.356Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159924",
+      "ERID": "352f92b4-177b-4503-a283-047b09b93d7e"
+    },
+    {
+      "@type": "Machine",
+      "name": "6135J_0633_F 24077",
+      "serialNumber": "1BM6135JVRD630633",
+      "engineSerialNumber": "J06068L783776",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2266738",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:39:28.272Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:39:28.272Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159925",
+      "ERID": "8f3ded21-2942-412d-a7c5-973812d95700"
+    },
+    {
+      "@type": "Machine",
+      "name": "6115J_1966_F 24096",
+      "serialNumber": "1BM6115JERD601966",
+      "engineSerialNumber": "J04045L756984",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6115J",
+        "certified": true,
+        "deprecated": false,
+        "id": "577553",
+        "ERID": "f0c0fdbc-a087-4dea-8770-e72827b09f87"
+      },
+      "principalId": "2444189",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:38:05.116Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:38:05.116Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159926",
+      "ERID": "688aca6b-64ac-47fb-bb14-e078481de9fb"
+    },
+    {
+      "@type": "Machine",
+      "name": "6115J_1961_F 24095",
+      "serialNumber": "1BM6115JCRD601961",
+      "engineSerialNumber": "J04045L757087",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6115J",
+        "certified": true,
+        "deprecated": false,
+        "id": "577553",
+        "ERID": "f0c0fdbc-a087-4dea-8770-e72827b09f87"
+      },
+      "principalId": "2444195",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:37:34.809Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:37:34.809Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159927",
+      "ERID": "98d253e9-0894-4e70-b4f3-313998e680a2"
+    },
+    {
+      "@type": "Machine",
+      "name": "6135J_0667_F 24073",
+      "serialNumber": "1BM6135JHRD630667",
+      "engineSerialNumber": "J06068L784117",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2294091",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-01-03T13:40:19.034Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-01-03T13:40:19.034Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5159928",
+      "ERID": "ecc19fc2-c350-4b2f-a867-f93d3b8813a7"
+    },
+    {
+      "@type": "Machine",
+      "name": "7200J_0976_F 5021",
+      "serialNumber": "1BM7200JEJH000976",
+      "engineSerialNumber": "J06068L730247",
+      "isSerialNumberCertified": true,
+      "modelYear": "2018",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7200J",
+        "certified": true,
+        "deprecated": false,
+        "id": "733817",
+        "ERID": "669c7089-7f4e-460b-b92b-276c4c4eef13"
+      },
+      "principalId": "538829",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-01-02T19:50:26.508Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5160554",
+      "ERID": "76061cdc-da66-4d15-bb1b-12b39daf6ebe"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_1620_F 20018",
+      "serialNumber": "1BM7230JCPH011620",
+      "engineSerialNumber": "J06068L782194",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "2096407",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-01-02T19:50:48.231Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5160556",
+      "ERID": "e53985bd-b94d-4e4d-95ae-7e541cc3225e"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_1606_F 20016",
+      "serialNumber": "1BM7230JKPH011606",
+      "engineSerialNumber": "J06068L782738",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "2096404",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-01-02T19:51:03.89Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5160557",
+      "ERID": "e8c197d0-a841-4f00-a1d8-3204cdfb5d72"
+    },
+    {
+      "@type": "Machine",
+      "name": "7200J_0972_F 5017",
+      "serialNumber": "1BM7200JVJH000972",
+      "engineSerialNumber": "J06068L730186",
+      "isSerialNumberCertified": true,
+      "modelYear": "2018",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7200J",
+        "certified": true,
+        "deprecated": false,
+        "id": "733817",
+        "ERID": "669c7089-7f4e-460b-b92b-276c4c4eef13"
+      },
+      "principalId": "538312",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-01-02T19:51:33.22Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5160559",
+      "ERID": "6fd09ea5-1cd2-4bd3-8ead-4298a949aa13"
+    },
+    {
+      "@type": "Machine",
+      "name": "7230J_1647_F 20015",
+      "serialNumber": "1BM7230JEPH011647",
+      "engineSerialNumber": "J06068L782455",
+      "isSerialNumberCertified": true,
+      "modelYear": "2020",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 140 Hp And Above",
+        "id": "133",
+        "ERID": "33d039fc-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7230J",
+        "certified": true,
+        "deprecated": false,
+        "id": "661842",
+        "ERID": "e8e838a0-37af-4896-8087-988ab6813d13"
+      },
+      "principalId": "2096405",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-01-02T19:51:51.946Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5160560",
+      "ERID": "710ac6a5-0402-4503-9fb0-5166be416b30"
+    },
+    {
+      "@type": "Machine",
+      "name": "6135J_0332_F 24016",
+      "serialNumber": "1BM6135JTPD630332",
+      "engineSerialNumber": "J06068L776146",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2532689",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-01-15T19:32:19.29Z",
+        "event": "PAIRING",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5181954",
+      "ERID": "66d26acf-aa91-4399-82ef-6939d4fc4257"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JTPD630329",
+      "serialNumber": "1BM6135JTPD630329",
+      "engineSerialNumber": "J06068L776041",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2564209",
+      "telematicsCapable": false,
+      "archived": true,
+      "archivedTimestamp": "2025-05-16T13:30:20.226Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-02-14T17:36:52.11Z",
+        "event": "CREATION",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5250356",
+      "ERID": "b0acebc1-d262-43e6-960e-f7b94ea49dcc"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JLPD630454",
+      "serialNumber": "1BM6135JLPD630454",
+      "engineSerialNumber": "J06068L779105",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "1958542",
+      "telematicsCapable": true,
+      "archived": true,
+      "archivedTimestamp": "2025-05-16T13:30:20.443Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-02-14T17:43:14.994Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5250370",
+      "ERID": "5165411c-ba5b-46bf-a689-536722676b55"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JARD630651",
+      "serialNumber": "1BM6135JARD630651",
+      "engineSerialNumber": "J06068L783248",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2564220",
+      "telematicsCapable": false,
+      "archived": true,
+      "archivedTimestamp": "2025-05-16T13:30:20.668Z",
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-02-14T17:44:22.576Z",
+        "event": "CREATION",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5250372",
+      "ERID": "8e16b86d-946b-4653-a52b-652066d1fc8e"
+    },
+    {
+      "@type": "Implement",
+      "name": "Ecoagrícola",
+      "isSerialNumberCertified": false,
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "OTHER",
+        "certified": true,
+        "deereOrSubsidiary": false,
+        "deprecated": false,
+        "id": "2432",
+        "ERID": "db26792e-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Tillage Implement",
+        "id": "266",
+        "ERID": "08d95d11-3ead-4bb4-9eb9-1b8c78a4b479"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tillage",
+        "id": "14",
+        "ERID": "cd805caf-9b07-4943-8ddb-4d46fe4a306a"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "7161-A",
+        "certified": false,
+        "deprecated": false,
+        "id": "837451",
+        "ERID": "f8030c6c-2967-495e-8edf-af1af2f8ca20"
+      },
+      "principalId": "2694367",
+      "telematicsCapable": false,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-05-16T13:34:47.042Z",
+        "event": "CREATION",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5490880",
+      "ERID": "636c5f17-d776-4f8f-a943-223faab06c5f"
+    },
+    {
+      "@type": "Implement",
+      "name": "Limpa trilho",
+      "isSerialNumberCertified": false,
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "OTHER",
+        "certified": true,
+        "deereOrSubsidiary": false,
+        "deprecated": false,
+        "id": "2432",
+        "ERID": "db26792e-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Aeration",
+        "id": "417",
+        "ERID": "5570815a-b821-4255-95ad-be6a9e72c69b"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Other",
+        "id": "29",
+        "ERID": "bcb321b9-521d-4761-9e64-f59816a2ab6b"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "RASPADEIRA",
+        "certified": false,
+        "deprecated": false,
+        "id": "837452",
+        "ERID": "dc0f574e-5c90-4c94-9015-fce1fb2598ce"
+      },
+      "principalId": "2694376",
+      "telematicsCapable": false,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-05-16T13:36:32.903Z",
+        "event": "CREATION",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5490893",
+      "ERID": "f15967ef-cba9-4f5c-8deb-32422e89ce3b"
+    },
+    {
+      "@type": "Implement",
+      "name": "Subsolador FELDERMAN",
+      "isSerialNumberCertified": false,
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "OTHER",
+        "certified": true,
+        "deereOrSubsidiary": false,
+        "deprecated": false,
+        "id": "2432",
+        "ERID": "db26792e-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Nutrient Application",
+        "id": "74",
+        "ERID": "3788b37a-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Liquid Fert. Tool",
+        "id": "16",
+        "ERID": "ae8c6cea-303d-4c42-a5ac-dfdce93ccaa6"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "APLICADOR FELDERMAN",
+        "certified": false,
+        "deprecated": false,
+        "id": "837453",
+        "ERID": "3fa42e0e-fb90-4f02-8919-880ad430f9ef"
+      },
+      "principalId": "2694390",
+      "telematicsCapable": false,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-05-16T13:38:28.752Z",
+        "event": "CREATION",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5490908",
+      "ERID": "3be9f099-9fc4-4937-a182-65ef6e5522ba"
+    },
+    {
+      "@type": "Implement",
+      "name": "GRADE",
+      "isSerialNumberCertified": false,
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "TATU",
+        "certified": true,
+        "deereOrSubsidiary": false,
+        "deprecated": false,
+        "id": "1533",
+        "ERID": "db21d68c-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Disk",
+        "id": "144",
+        "ERID": "3682a3b3-11fb-11ee-8580-0ed5f726b451"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tillage",
+        "id": "14",
+        "ERID": "cd805caf-9b07-4943-8ddb-4d46fe4a306a"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "GRADE",
+        "certified": false,
+        "deprecated": false,
+        "id": "760292",
+        "ERID": "03f4acd2-4dd4-44b7-bc6d-3af033548b63"
+      },
+      "principalId": "2694395",
+      "telematicsCapable": false,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "NonControlling",
+        "effectiveTS": "2025-05-16T13:39:26.109Z",
+        "event": "CREATION",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5490913",
+      "ERID": "5f031b19-e77b-486e-8439-17d299d20d5b"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JLSD630849",
+      "serialNumber": "1BM6135JLSD630849",
+      "engineSerialNumber": "J06068L788666",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2663177",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-05-21T13:15:32.008Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5501061",
+      "ERID": "ea353319-8e3e-4623-b119-14f8006f2c25"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JJSD630862",
+      "serialNumber": "1BM6135JJSD630862",
+      "engineSerialNumber": "J06068L788715",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2663190",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-05-21T13:15:33.784Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5501062",
+      "ERID": "697d61a4-6d43-4efb-b7e4-2c4d5e60f8fb"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JLSD630866",
+      "serialNumber": "1BM6135JLSD630866",
+      "engineSerialNumber": "J06068L788692",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2663179",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-05-21T13:15:35.183Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5501063",
+      "ERID": "dc4266cf-d368-4d3b-a1f0-d81ccaf9b45a"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JKSD630861",
+      "serialNumber": "1BM6135JKSD630861",
+      "engineSerialNumber": "J06068L788667",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2663191",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-05-21T13:15:36.771Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5501064",
+      "ERID": "54f8a020-1fb0-45b3-b8d5-0c7bcdc26895"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JVSD630864",
+      "serialNumber": "1BM6135JVSD630864",
+      "engineSerialNumber": "J06068L788571",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2663193",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-05-21T13:15:38.136Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5501065",
+      "ERID": "ae56515a-371b-49ef-a107-a3896d473a3e"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JPSD630857",
+      "serialNumber": "1BM6135JPSD630857",
+      "engineSerialNumber": "J06068L788726",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2663188",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-05-21T13:15:39.822Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5501067",
+      "ERID": "1ceaabc9-c995-48ef-b807-5bad8ea7c05e"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JKSD630858",
+      "serialNumber": "1BM6135JKSD630858",
+      "engineSerialNumber": "J06068L788673",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2663192",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-05-21T13:15:41.226Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5501068",
+      "ERID": "f0e0eff8-a62f-4c8a-b238-161d72f84b1e"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JPSD630860",
+      "serialNumber": "1BM6135JPSD630860",
+      "engineSerialNumber": "J06068L788807",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2663178",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-05-21T13:15:42.717Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5501069",
+      "ERID": "918006c0-fe33-436e-9be6-5e415fe2d56b"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JASD630848",
+      "serialNumber": "1BM6135JASD630848",
+      "engineSerialNumber": "J06068L788544",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2663174",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-05-21T13:15:44.225Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5501071",
+      "ERID": "ec0f2a40-6439-49eb-a547-d489db539aff"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JHSD630853",
+      "serialNumber": "1BM6135JHSD630853",
+      "engineSerialNumber": "J06068L788680",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2663173",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-05-21T13:15:45.435Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5501072",
+      "ERID": "bdb2b819-f244-4cfd-9be1-3444b1b6cdd3"
+    },
+    {
+      "@type": "Machine",
+      "name": "1BM6135JJSD630859",
+      "serialNumber": "1BM6135JJSD630859",
+      "engineSerialNumber": "J06068L788676",
+      "isSerialNumberCertified": true,
+      "modelYear": "2022",
+      "make": {
+        "@type": "EquipmentMake",
+        "name": "JOHN DEERE",
+        "certified": true,
+        "deereOrSubsidiary": true,
+        "deprecated": false,
+        "id": "1",
+        "ERID": "db18bdc4-025a-11eb-97e4-0e8d658c7ba3"
+      },
+      "type": {
+        "@type": "EquipmentType",
+        "name": "Two-wheel Drive Tractors - 90 Hp To Under 140 Hp",
+        "id": "141",
+        "ERID": "ad2bef70-5f8c-4a9d-b9e8-78067182104e"
+      },
+      "isgType": {
+        "@type": "EquipmentISGType",
+        "name": "Tractor",
+        "id": "1",
+        "ERID": "82115264-9385-460c-bfbe-177a59445fd9"
+      },
+      "model": {
+        "@type": "EquipmentModel",
+        "name": "6135J",
+        "certified": true,
+        "deprecated": false,
+        "id": "109046",
+        "ERID": "8d8dfd02-aa05-45ea-822d-15eee85c393b"
+      },
+      "principalId": "2663180",
+      "telematicsCapable": true,
+      "archived": false,
+      "organization": {
+        "@type": "Resource",
+        "id": "5881930"
+      },
+      "organizationRole": {
+        "type": "Controlling",
+        "effectiveTS": "2025-05-21T13:15:46.76Z",
+        "event": "TRANSFER",
+        "inPossession": null
+      },
+      "isCsc": false,
+      "id": "5501073",
+      "ERID": "c7e89bd5-33f1-4e77-a7c3-b2b5e868256a"
+    }
+  ]
+}
