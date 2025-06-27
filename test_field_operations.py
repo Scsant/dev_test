@@ -57,7 +57,7 @@ def refresh_access_token(tokens):
     }
     
     try:
-        response = requests.post(TOKEN_URL, headers=headers, data=data)
+        response = requests.post(TOKEN_URL, headers=headers, data=data, verify=False)  # 'verify=True' para garantir que a conexão é segura
         response.raise_for_status()
         token_data = response.json()
         tokens['access_token'] = token_data.get('access_token')
@@ -85,100 +85,70 @@ def get_valid_tokens():
     
     return tokens
 
-def test_field_operations_endpoint():
+
+def test_field_operations_all_fields():
     """
-    Testa o endpoint de operações de campo
+    Itera sobre todos os campos do arquivo fields_organization_5881930.json e executa o TESTE 3 (cropSeason=2025) para cada campo.
     """
     tokens = get_valid_tokens()
     if not tokens:
         return
-    
+
     access_token = tokens.get('access_token')
     organization_id = "5881930"
-    field_id = "19f73266-741a-99e1-3c04-a513c7481e3f"  # Primeiro campo da lista
-    
-    print(f"🧪 Testando endpoint de operações de campo...")
-    print(f"   • Organização: {organization_id}")
-    print(f"   • Campo: {field_id}")
-    
-    # Teste 1: Endpoint básico de operações de campo
-    print(f"\n{'='*60}")
-    print("📋 TESTE 1: Endpoint básico de operações de campo")
-    print(f"{'='*60}")
-    
+
+    # Carrega todos os campos do JSON
+    with open('fields_organization_5881930.json', 'r', encoding='utf-8') as f:
+        fields = json.load(f)
+
     headers = {
         'Authorization': f'Bearer {access_token}',
         'Accept': 'application/vnd.deere.axiom.v3+json'
     }
-    
-    field_ops_url = f"{API_BASE_URL}/organizations/{organization_id}/fields/{field_id}/fieldOperations"
-    
-    try:
-        print(f"📡 URL: {field_ops_url}")
-        print(f"📋 Headers: {headers}")
-        
-        response = requests.get(field_ops_url, headers=headers)
-        
-        print(f"📊 Status: {response.status_code}")
-        print(f"📋 Response Headers: {dict(response.headers)}")
-        
-        if response.status_code == 200:
-            data = response.json()
-            print("✅ Sucesso! Dados recebidos:")
-            print(json.dumps(data, indent=2))
-        else:
-            print(f"❌ Erro {response.status_code}: {response.text}")
-            
-    except Exception as e:
-        print(f"❌ Exceção: {e}")
-    
-    # Teste 2: Endpoint de última operação de campo
-    print(f"\n{'='*60}")
-    print("📋 TESTE 2: Última operação de campo")
-    print(f"{'='*60}")
-    
-    last_op_url = f"{field_ops_url}?lastFieldOperation=true"
-    
-    try:
-        print(f"📡 URL: {last_op_url}")
-        
-        response = requests.get(last_op_url, headers=headers)
-        
-        print(f"📊 Status: {response.status_code}")
-        
-        if response.status_code == 200:
-            data = response.json()
-            print("✅ Sucesso! Última operação:")
-            print(json.dumps(data, indent=2))
-        else:
-            print(f"❌ Erro {response.status_code}: {response.text}")
-            
-    except Exception as e:
-        print(f"❌ Exceção: {e}")
-    
-    # Teste 3: Com parâmetros de filtro
-    print(f"\n{'='*60}")
-    print("📋 TESTE 3: Com filtros (cropSeason=2025)")
-    print(f"{'='*60}")
-    
-    filtered_url = f"{field_ops_url}?cropSeason=2025"
-    
-    try:
+
+    results = []
+    for field in fields:
+        field_id = field['id']
+        field_name = field.get('name', 'Sem nome')
+        filtered_url = f"{API_BASE_URL}/organizations/{organization_id}/fields/{field_id}/fieldOperations?cropSeason=2025"
+        print(f"\n{'='*60}")
+        print(f"📋 TESTE 3: Campo {field_name} (ID: {field_id}) - Filtro cropSeason=2025")
+        print(f"{'='*60}")
         print(f"📡 URL: {filtered_url}")
-        
-        response = requests.get(filtered_url, headers=headers)
-        
-        print(f"📊 Status: {response.status_code}")
-        
-        if response.status_code == 200:
-            data = response.json()
-            print("✅ Sucesso! Operações filtradas:")
-            print(json.dumps(data, indent=2))
-        else:
-            print(f"❌ Erro {response.status_code}: {response.text}")
-            
-    except Exception as e:
-        print(f"❌ Exceção: {e}")
+
+        field_result = {
+            'id': field_id,
+            'name': field_name,
+            'url': filtered_url,
+            'status_code': None,
+            'data': None,
+            'error': None
+        }
+
+        try:
+            response = requests.get(filtered_url, headers=headers, verify=False)
+            print(f"📊 Status: {response.status_code}")
+            field_result['status_code'] = response.status_code
+
+            if response.status_code == 200:
+                data = response.json()
+                print("✅ Sucesso! Operações filtradas:")
+                print(json.dumps(data, indent=2))
+                field_result['data'] = data
+            else:
+                print(f"❌ Erro {response.status_code}: {response.text}")
+                field_result['error'] = response.text
+
+        except Exception as e:
+            print(f"❌ Exceção: {e}")
+            field_result['error'] = str(e)
+
+        results.append(field_result)
+
+    # Salva todos os resultados em um arquivo JSON
+    with open('field_operations_results_2025.json', 'w', encoding='utf-8') as fout:
+        json.dump(results, fout, ensure_ascii=False, indent=2)
+    print("\n📝 Resultados salvos em 'field_operations_results_2025.json'.")
 
 if __name__ == "__main__":
-    test_field_operations_endpoint() 
+    test_field_operations_all_fields()

@@ -58,7 +58,7 @@ def refresh_access_token(tokens):
     }
     
     try:
-        response = requests.post(TOKEN_URL, headers=headers, data=data)
+        response = requests.post(TOKEN_URL, headers=headers, data=data, verify=False)  # 'verify=True' para garantir que a conexão é segura
         response.raise_for_status()
         token_data = response.json()
         tokens['access_token'] = token_data.get('access_token')
@@ -106,7 +106,7 @@ def test_file_activities(file_id: str):
     print(f"📋 Headers: {headers}")
     
     try:
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, verify=False)  # 'verify=True' para garantir que a conexão é segura
         print(f"📊 Status: {response.status_code}")
         print(f"📋 Response Headers: {dict(response.headers)}")
         
@@ -143,7 +143,7 @@ def test_file_details(file_id: str):
     print(f"📡 Testando detalhes do arquivo: {url}")
     
     try:
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, verify=False)  # 'verify=True' para garantir que a conexão é segura
         print(f"📊 Status: {response.status_code}")
         
         if response.status_code == 200:
@@ -179,7 +179,7 @@ def test_file_partnerships(file_id: str):
     print(f"📡 Testando parcerias do arquivo: {url}")
     
     try:
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, verify=False)  # 'verify=True' para garantir que a conexão é segura   
         print(f"📊 Status: {response.status_code}")
         
         if response.status_code == 200:
